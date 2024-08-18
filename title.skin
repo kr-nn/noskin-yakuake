@@ -1,19 +1,18 @@
 [Description]
-Skin=One Pixel Title
-Author=Alexander Potashev
-Email=aspotashev@gmail.com
-Icon=/icon.png
+Skin=noskin
+Author=kyle Robinson
+Email=kyle@nocturnalnerd.xyz
 
 [Border]
-red=199
-green=193
-blue=190
+red=255
+green=255
+blue=255
 width=0
 
 [Text]
-red=199
-green=193
-blue=190
+red=255
+green=255
+blue=255
 bold=false
 
 [Background]
